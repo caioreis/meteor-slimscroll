@@ -1,0 +1,9 @@
+{
+  "name": "jquery-slimscroll",
+  "description": "Jquery slimscroll library",
+  "homepage": "git@github.com:caioreis/meteor-slimscroll.git",
+  "author": "Caio Moretti",
+  "version": "0.0.1",
+  "git": "git@github.com:caioreis/meteor-slimscroll.git",
+  "packages": {}
+}
